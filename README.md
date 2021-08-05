@@ -1,0 +1,2 @@
+# super-duper-spoon
+Course coordinator wants to prepare the list of students for his class by inputting data such as Name, Roll Number, Division and Program. He only input Name and Roll Number through INPUT function; other data is common for all the students. So, INPUT function will accept default arguments for constant values that need to initialize to student’s attributes. Display the data for 3 students. Write a main function to implement function with default arguments.
